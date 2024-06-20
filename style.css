@@ -50,3 +50,19 @@ margin-bottom: 50px;
     float: right;
 
 }
+
+.e4{
+    width: 400px;
+    height: 300px;
+    float: center;
+
+}
+
+.e5{
+    float: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-wrap: balance;
+    padding-left: 50px;
+}
+
+
