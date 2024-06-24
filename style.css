@@ -1,9 +1,9 @@
-img{
-    padding: 30px;
-    align-items: center;
+.logo {
+    width: 70px;
+    height: 70px;
 }
 
-th{
+th {
     font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -35,34 +35,56 @@ ul li:hover {
     color: white;
 }
 
-.e1{
+.e1 {
     float: right;
 }
 
-.e2{
-font-size: 60px;
-margin-bottom: 50px;
+.e2 {
+    text-align: center;
+
+    font-size: 60px;
+    margin-bottom: 50px;
 }
 
-.e3{
+.e3 {
+    padding-top: 15px;
+    padding-left: 30px;
     width: 700px;
     height: 400px;
     float: right;
 
 }
 
-.e4{
+.e4 {
     width: 400px;
     height: 300px;
     float: center;
 
 }
 
-.e5{
+.e5 {
     float: center;
     font-family: Arial, Helvetica, sans-serif;
     text-wrap: balance;
     padding-left: 50px;
 }
 
+.nav {
+    color: brown;
+    text-decoration: none;
+}
 
+.nav:hover {
+    color: white;
+    background-color: rgb(241, 9, 9);
+}
+
+iframe {
+    align-items: center;
+    margin-left: 500px;
+}
+
+.mb-3 {
+    text-align: right;
+    padding-left: 40px;
+}
